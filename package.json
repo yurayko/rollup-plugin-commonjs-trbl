@@ -13,7 +13,7 @@
   "devDependencies": {
     "rollup": "^0.60.7",
     "rollup-plugin-alias": "^1.4.0",
-    "rollup-plugin-commonjs": "^9.1.3",
+    "rollup-plugin-commonjs": "^9.1.3"
   },
   "dependencies": {
     "N3-components": "^2.4.4",
